@@ -1,0 +1,63 @@
+.BookNow{
+  color:rgb(227, 232, 244);
+  font-size: 300%;
+}
+html, body {
+  height:100%;
+  width:100%;
+  font-family: 'poppins', sans-serif;
+  color: #222;
+  }
+  
+  
+    .row .col-md-7 {
+     padding: 150px 50px;
+     padding-bottom: 300px;
+   }
+   
+   .row .col-md-5 {
+     padding: 85px 75px;
+  
+   } 
+   
+    .row .col-md-5 img {
+     width: 125%;
+     margin-top: 40%;
+   }
+   
+   
+   .container .col-md-7 h6 {
+     padding: 100px;
+     letter-spacing: 4px;
+   }
+   
+   .container .col-md-7 h1 {
+     margin-top: 15%;
+     font-family:ui-sans-serif,cursive;
+     text-shadow: 1px 1px 15px rgb(9, 14, 36);
+     color: rgb(234, 245, 245);
+     font-size: 75px;
+     font-weight: bold;
+     padding: 0.1px;
+   }
+   
+   .container .col-md-7 p {
+     padding: 15px 5px;
+     font-family: -webkit-body;
+     font-size: 25px;
+   }
+   
+    body{
+      /*background-color: #242333;*/
+      background: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.5)), url(./images/office.jpeg); 
+      /*background-image: url(./images/office1.jpg) ;*/
+      background-position: center;
+      background-size: cover;
+      height: 100vh;
+      font-family: "Lato", sans-serif;
+      margin: 0;
+  }
+
+  .jaya .img{
+    width: 125%;
+  }

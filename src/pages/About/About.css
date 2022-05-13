@@ -1,0 +1,15 @@
+.about1{
+    
+    font-family: sans-serif;
+    color:white;
+    font-size: 25px;
+    margin: auto;
+    margin-top: 200px;
+    width: 70%;
+    justify-content: center;
+    display: flex;
+    height: 300px;
+    /* box-shadow: 11px 12px 13px 12px darkgrey; */
+    border-radius: 10px; 
+    background-color: rgb(15, 103, 103);
+}

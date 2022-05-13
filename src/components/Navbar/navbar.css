@@ -1,0 +1,47 @@
+.navbar-container {
+    height: 10vh;
+    width: 100%;
+    background-color: cadetblue;
+    position: fixed;
+    top: 0;
+    color: white;
+    font-size: 18px;
+  }
+  .heading{
+    color: black;
+    align-items: center;
+  justify-content: center;
+  height: 100vh;
+  font-family: "Lato", sans-serif;
+  margin: 0;
+  }
+
+  .logo{
+    height:40%;
+    width: 70px;
+  }
+  
+  .plist{
+    color: black;
+    align-items: center;
+  }
+      
+    
+    .navbar {
+      display: flex;
+      justify-content: space-between;
+      padding: 15px;
+      height: 100%;
+    }
+    
+   
+    
+    .pages-list {
+      display: flex;
+      width: 60%;
+      margin-left:2em;
+      justify-content: space-between;
+      height: 150%;
+      margin-top: 10px;
+      list-style-type: none;
+    }

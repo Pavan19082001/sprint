@@ -1,0 +1,37 @@
+.App{
+  align-items: center;
+  margin-top: 30px;
+  position: absolute;
+}
+
+h1 {
+    text-align: center;
+    color:whitesmoke;
+    text-shadow: 1px 1px 15px rgb(36, 77, 244);
+    margin-top: 10px;
+  }
+  
+.container0{
+    margin: auto;
+    margin-top: 150px;
+    width: 30%;
+    justify-content: center;
+    display: flex;
+    height: 370px;
+    /* box-shadow: 11px 12px 13px 12px darkgrey; */
+    border-radius: 60px; 
+    background-color: rgb(15, 103, 103); 
+  }
+
+  .btnmargin{
+    margin-top: 15px;
+    color: whitesmoke;
+    justify-content: center;
+    border: 20px;
+    
+  }
+
+  .input{
+    color: whitesmoke;
+  }
+  
